@@ -1,4 +1,4 @@
-# ASSMIA POS — Multi-restaurant Web POS SaaS MVP
+# cilaxe POS — Multi-restaurant Web POS SaaS MVP
 
 **Status:** Development MVP source code. Not deployed, not certified for GST, not tested with production printers/payments. Existing websites untouched.
 
